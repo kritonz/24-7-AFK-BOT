@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "gedagudi.play.hosting",
-    "port": 55393,
+    "ip": "haridevkota.aternos.me",
+    "port": 54537,
     "version": "26.1.2",
     "try-creative": false
   },
